@@ -1,14 +1,14 @@
 {
   "name": "tito-api",
   "version": "1.0.0",
-  "description": "yes, there is a tito api",
+  "description": "client for the tito api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finnp/tito-api.git"
+    "url": "git+https://github.com/teamtito/node-tito-api.git"
   },
   "keywords": [
     "tito",
@@ -17,12 +17,11 @@
   "author": "Finn Pauls",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/finnp/tito-api/issues"
+    "url": "https://github.com/teamtito/node-tito-api/issues"
   },
-  "homepage": "https://github.com/finnp/tito-api#readme",
+  "homepage": "https://github.com/teamtito/node-tito-api#readme",
   "dependencies": {
     "JSONStream": "^1.0.4",
-    "hyperquest": "^1.2.0",
-    "ndjson": "^1.4.1"
+    "hyperquest": "^1.2.0"
   }
 }

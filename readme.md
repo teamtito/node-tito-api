@@ -1,7 +1,9 @@
 # tito-api
 [![NPM](https://nodei.co/npm/tito-api.png)](https://nodei.co/npm/tito-api/)
 
-You might not know that there is an official tito api. So have a look here: https://api.tito.io/
+Node: In Development for the v2 API.
+
+Node client for the http://tito.io api.
 
 ## usage
 
